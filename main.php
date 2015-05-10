@@ -44,7 +44,7 @@
 	<p class="text-center">Powered by <a href="http://www.glype.com/">Glype</a>&reg; <!--[version]--> - Theme: glypestrap via <a href="http://pattyland.de" target="_blank">pattyland</a></p>  
 </div>
 </form>
-<script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script>
 $('#proxyoptions label').tooltip();
